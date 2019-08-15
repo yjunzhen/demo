@@ -8,7 +8,7 @@ spring:
   datasource:
     name: test
 
-    url: jdbc:mysql://192.168.1.112:3306/testo
+    url: jdbc:mysql://192.168.1.112:3306/test
     username: root
     password: xxx
 
